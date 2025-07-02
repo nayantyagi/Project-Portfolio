@@ -147,6 +147,7 @@ a:hover{
 /* SECTIONS */
 section{
   padding-top: 4vh;
+  font-size: large;
   height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
